@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Abdenour-Landri
-- 👀 I’m interested in data analysis and python programming
-- 🌱 I’m currently learning automation in college and data analysis by myself
-- 💞️ I’m looking to collaborate on data projects and I'm open for hiring
+- 👀 I’m interested in data analysis, Backend web development and Python programming
+- 🌱 Automation engineer graduated from USTHB
+- 💞️ Self-taught data analyst and Web developer
 - 📫 How to reach me contact via mail: abdenourlandri@gmail.com
 
 <!---
