@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Abdenour-Landri
-- 👀 I’m interested in data analysis, Backend web development and Python programming
+- 👀 Data science coach
 - 🌱 Automation engineer graduated from USTHB
-- 💞️ Self-taught data analyst and Web developer
 - 📫 How to reach me contact via mail: abdenourlandri@gmail.com
 
 <!---
